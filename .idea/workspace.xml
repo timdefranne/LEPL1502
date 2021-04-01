@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd8b5544-67af-40c7-abce-eba6e3d5dd7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/1_bobine_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/2_amplificateur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/3_filtre.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/4_comparateur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/5_comparateur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/5_interrupteur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmes/approximations/6_bobine_repulsion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_01.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_02.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_03.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_04.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_05.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_06.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_07.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_08.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_09.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_10.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_11.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_12.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_13.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_14.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_15.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_16.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_17.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_18.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_19.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_20.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_21.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_22.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_23.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_24.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_25.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_26.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_27.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_28.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_29.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_30.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_31.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. Données/Labo08/pendule_1_victoire/pendule_1_victoire_32.csv" afterDir="false" />
-    </list>
+    <list default="true" id="cd8b5544-67af-40c7-abce-eba6e3d5dd7a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +45,7 @@
       <updated>1616961388431</updated>
       <workItem from="1616961391272" duration="219000" />
       <workItem from="1617260912334" duration="278000" />
+      <workItem from="1617262505115" duration="46000" />
     </task>
     <servers />
   </component>
